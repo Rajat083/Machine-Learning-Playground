@@ -2,6 +2,7 @@
 Small, educational ML examples.
 
 Files
+- `LinearRegression.ipynb` — notebook walkthrough of linear regression with NumPy, showing data prep and prediction steps.
 - `MPNeuron.py` — minimal perceptron-like neuron (NumPy). Supports 1D/2D weights and inputs; raises `ValueError` on shape mismatch.
 
 Quick start
